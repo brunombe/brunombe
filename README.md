@@ -14,7 +14,7 @@
 
 ## Sobre mim
 
-Tenho 26 anos, , e sou apaixonado por unir o raciocínio analítico da engenharia com a criação de soluções tecnológicas eficientes. Formado em **Engenharia de Recursos Hídricos e do Meio Ambiente** pela UFF, hoje curso **Ciência da Computação** na mesma instituição, e aplico esse cruzamento de áreas no meu dia a dia profissional.
+Tenho 26 anos, e sou apaixonado por unir o raciocínio analítico da engenharia com a criação de soluções tecnológicas eficientes. Formado em **Engenharia de Recursos Hídricos e do Meio Ambiente** pela UFF, hoje curso **Ciência da Computação** na mesma instituição, e aplico esse cruzamento de áreas no meu dia a dia profissional.
 
 - 🖥️ Desenvolvo **dashboards dinâmicos** com React + TypeScript e soluções escaláveis no back-end com Python
 - 🔬 Atuei no **CNPq** com simulações estatísticas (Monte Carlo) aplicadas a modelos matemáticos epidemiológicos
