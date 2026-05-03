@@ -1,22 +1,76 @@
-# Olá, eu sou o Bruno Benites👋
+<div align="center">
 
-**Desenvolvedor de Software | Graduando em Ciência da Computação (UFF) | Engenheiro Ambiental (UFF)**
+# Olá, eu sou o Bruno Benites 👋
 
-Sou um desenvolvedor de software apaixonado por unir a resolução de problemas complexos da engenharia com a criação de soluções tecnológicas eficientes[cite: 1]. Atualmente, atuo desenvolvendo desde interfaces interativas até automações de processos internos[cite: 1, 2].
+### Desenvolvedor de Software · Graduando em Ciência da Computação (UFF) · Engenheiro Ambiental (UFF)
 
-### 🚀 Sobre mim
-* Sou formado em Engenharia de Recursos Hídricos e do Meio Ambiente pela UFF e atualmente curso Ciência da Computação na mesma instituição[cite: 1, 2].
-* No meu dia a dia profissional, crio dashboards dinâmicos utilizando React e TypeScript, e desenvolvo soluções escaláveis no back-end utilizando Python[cite: 1, 2].
-* Tenho forte experiência com modelagem computacional e análise de dados, tendo atuado no CNPq com simulações estatísticas (Monte Carlo) aplicadas a modelos matemáticos epidemiológicos[cite: 1, 2].
-* Minha formação prévia em engenharia me trouxe uma excelente capacidade analítica e facilidade na comunicação técnica[cite: 1].
-* Fora do código e da faculdade, gosto de otimizar meu ambiente de desenvolvimento no Linux (atualmente rodando CachyOS), tocar instrumentos musicais ou jogar algumas partidas de CS2 e Valorant.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-benites/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomaieiro@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunobenites)
 
-### 💻 Tecnologias e Ferramentas
-* **Front-end:** React, TypeScript, JavaScript, HTML, CSS, Tailwind CSS[cite: 1, 2].
-* **Back-end & Banco de Dados:** Python, PostgreSQL, C, psycopg2[cite: 1, 2].
-* **Ciência de Dados & Análise:** NumPy, Pandas, Prophet, Matplotlib, Geoprocessamento[cite: 1, 2].
-* **Ferramentas & Outros:** Git, Adobe Creative Cloud (Premiere, Photoshop, After Effects), FL Studio, OBS[cite: 1, 2].
+</div>
 
-### 📫 Como me encontrar
-* **LinkedIn:** [in/bruno-benites](https://www.linkedin.com/in/bruno-benites/)[cite: 1, 2]
-* **Email:** brunomaieiro@gmail.com[cite: 1, 2]
+---
+
+## 🧑‍💻 Sobre mim
+
+Sou apaixonado por unir o raciocínio analítico da engenharia com a criação de soluções tecnológicas eficientes. Formado em **Engenharia de Recursos Hídricos e do Meio Ambiente** pela UFF, hoje curso **Ciência da Computação** na mesma instituição — e aplico esse cruzamento de áreas no meu dia a dia profissional.
+
+- 🖥️ Desenvolvo **dashboards dinâmicos** com React + TypeScript e soluções escaláveis no back-end com Python
+- 🔬 Atuei no **CNPq** com simulações estatísticas (Monte Carlo) aplicadas a modelos matemáticos epidemiológicos
+- 🐧 Entusiasta de Linux — atualmente rodando **CachyOS** e sempre otimizando meu ambiente de desenvolvimento
+- 🎮 Nas horas vagas: instrumentos musicais, **CS2** e **Valorant**
+- 🎵 Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects**
+
+---
+
+## 🛠️ Tecnologias & Ferramentas
+
+### Front-end
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### Back-end & Banco de Dados
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
+### Ciência de Dados & Análise
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+
+### Ferramentas & Outros
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Adobe Premiere](https://img.shields.io/badge/Adobe%20Premiere-9999FF?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)
+![FL Studio](https://img.shields.io/badge/FL%20Studio-FF6E00?style=for-the-badge&logo=image%2Fpng&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+![Bruno's GitHub Stats](https://github-readme-stats.vercel.app/api?username=brunobenites&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=brunobenites&layout=compact&theme=tokyonight&hide_border=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=brunobenites&theme=tokyonight&hide_border=true)
+
+</div>
+
+---
+
+<div align="center">
+
+*"A melhor solução é aquela que resolve o problema certo — da forma mais simples possível."*
+
+![Visitor Count](https://komarev.com/ghpvc/?username=brunobenites&color=blue&style=for-the-badge)
+
+</div>
