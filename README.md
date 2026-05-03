@@ -69,7 +69,8 @@ Sou apaixonado por unir o raciocínio analítico da engenharia com a criação d
 
 <div align="center">
 
-*"A melhor solução é aquela que resolve o problema certo — da forma mais simples possível."*
+*"Nas pequenas coisas, encontramos o amor de Deus"*
+-São Carlo Acutis
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=brunobenites&color=blue&style=for-the-badge)
 
