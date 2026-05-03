@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Bruno Benites 👋
+# Olá, eu sou o Bruno Benites 🤠
 
 ### Desenvolvedor de Software · Graduando em Ciência da Computação (UFF) · Engenheiro Ambiental (UFF)
 
@@ -12,7 +12,7 @@
 
 ---
 
-## 🧑‍💻 Sobre mim
+## Sobre mim
 
 Tenho 26 anos, , e sou apaixonado por unir o raciocínio analítico da engenharia com a criação de soluções tecnológicas eficientes. Formado em **Engenharia de Recursos Hídricos e do Meio Ambiente** pela UFF, hoje curso **Ciência da Computação** na mesma instituição, e aplico esse cruzamento de áreas no meu dia a dia profissional.
 
@@ -23,7 +23,7 @@ Tenho 26 anos, , e sou apaixonado por unir o raciocínio analítico da engenhari
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
 ### Front-end
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -51,7 +51,7 @@ Tenho 26 anos, , e sou apaixonado por unir o raciocínio analítico da engenhari
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
