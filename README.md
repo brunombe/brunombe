@@ -14,11 +14,11 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou apaixonado por unir o raciocínio analítico da engenharia com a criação de soluções tecnológicas eficientes. Formado em **Engenharia de Recursos Hídricos e do Meio Ambiente** pela UFF, hoje curso **Ciência da Computação** na mesma instituição, e aplico esse cruzamento de áreas no meu dia a dia profissional.
+Tenho 26 anos, , e sou apaixonado por unir o raciocínio analítico da engenharia com a criação de soluções tecnológicas eficientes. Formado em **Engenharia de Recursos Hídricos e do Meio Ambiente** pela UFF, hoje curso **Ciência da Computação** na mesma instituição, e aplico esse cruzamento de áreas no meu dia a dia profissional.
 
 - 🖥️ Desenvolvo **dashboards dinâmicos** com React + TypeScript e soluções escaláveis no back-end com Python
 - 🔬 Atuei no **CNPq** com simulações estatísticas (Monte Carlo) aplicadas a modelos matemáticos epidemiológicos
-- 🎮 Nas horas vagas: instrumentos musicais, **CS2** e **Valorant**
+- 🎮 Nas horas vagas: instrumentos musicais, jogos, e aprender sobre a história de nosso mundo.
 - 🎵 (Quase) Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects**
 
 ---
