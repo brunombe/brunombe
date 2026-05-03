@@ -52,7 +52,7 @@ Tenho 26 anos, e sou apaixonado por unir o raciocínio analítico da engenharia 
 
 ---
 
-## 🌍 Idiomas
+## Idiomas
 
 | Idioma | Nível |
 |--------|-------|
@@ -63,7 +63,7 @@ Tenho 26 anos, e sou apaixonado por unir o raciocínio analítico da engenharia 
 
 ---
 
-## 📄 Publicação Científica
+## Publicação Científica
 
 > **Modelagem computacional de epidemias e disseminação de opiniões**  
 > Revista PIBIC 2024 — Ciências Exatas e da Terra
@@ -72,7 +72,7 @@ Simulações de Monte Carlo aplicadas a modelos epidemiológicos com dinâmicas 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
