@@ -1,4 +1,4 @@
-# Olá, eu sou o Bruno Benites (Alfaiate)! 👋
+# Olá, eu sou o Bruno Benites👋
 
 **Desenvolvedor de Software | Graduando em Ciência da Computação (UFF) | Engenheiro Ambiental (UFF)**
 
