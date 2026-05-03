@@ -14,13 +14,12 @@
 
 ## 🧑‍💻 Sobre mim
 
-Sou apaixonado por unir o raciocínio analítico da engenharia com a criação de soluções tecnológicas eficientes. Formado em **Engenharia de Recursos Hídricos e do Meio Ambiente** pela UFF, hoje curso **Ciência da Computação** na mesma instituição — e aplico esse cruzamento de áreas no meu dia a dia profissional.
+Sou apaixonado por unir o raciocínio analítico da engenharia com a criação de soluções tecnológicas eficientes. Formado em **Engenharia de Recursos Hídricos e do Meio Ambiente** pela UFF, hoje curso **Ciência da Computação** na mesma instituição, e aplico esse cruzamento de áreas no meu dia a dia profissional.
 
 - 🖥️ Desenvolvo **dashboards dinâmicos** com React + TypeScript e soluções escaláveis no back-end com Python
 - 🔬 Atuei no **CNPq** com simulações estatísticas (Monte Carlo) aplicadas a modelos matemáticos epidemiológicos
-- 🐧 Entusiasta de Linux — atualmente rodando **CachyOS** e sempre otimizando meu ambiente de desenvolvimento
 - 🎮 Nas horas vagas: instrumentos musicais, **CS2** e **Valorant**
-- 🎵 Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects**
+- 🎵 (Quase) Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects**
 
 ---
 
@@ -37,7 +36,6 @@ Sou apaixonado por unir o raciocínio analítico da engenharia com a criação d
 ### Back-end & Banco de Dados
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 ### Ciência de Dados & Análise
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
