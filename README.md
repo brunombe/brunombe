@@ -1,6 +1,6 @@
 <div align="center">
 
-Bruno Maieiro Benites
+<h1>Bruno Maieiro Benites</h1>
 
 ### Desenvolvedor de Software · Graduando em Ciência da Computação (UFF) · Engenheiro Ambiental (UFF)
 
