@@ -1,6 +1,6 @@
 <div align="center">
 
-# Olá, eu sou o Bruno Benites 🤠
+Bruno Maieiro Benites
 
 ### Desenvolvedor de Software · Graduando em Ciência da Computação (UFF) · Engenheiro Ambiental (UFF)
 
