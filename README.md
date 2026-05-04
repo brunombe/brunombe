@@ -18,8 +18,8 @@ Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de 
 
 - 🖥️ Desenvolvo **dashboards dinâmicos** com React + TypeScript e soluções com Python
 - 🔬 Atuei no **CNPq** com simulações estatísticas (Monte Carlo) aplicadas a modelos matemáticos epidemiológicos, com resultados **publicados na Revista PIBIC 2024**
-- 🎮 Nas horas vagas: instrumentos musicais, jogos, e aprender sobre a história de nosso mundo
-- 🎵 (Quase) Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects**
+- 🎮 Nas horas vagas: musica, jogos, **MUITA** academia e aprender sobre a história de nosso mundo.
+- 🎵 (Quase) Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects** (não conte para os outros sobre o meu canalzinho no youtube que eu tinha quando eu era adolescente kkkkk)
 
 ---
 
