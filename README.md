@@ -14,9 +14,9 @@
 
 ## Sobre mim
 
-Tenho 26 anos, e sou apaixonado por unir o raciocínio analítico da engenharia com a criação de soluções tecnológicas eficientes. Formado em **Engenharia de Recursos Hídricos e do Meio Ambiente** pela UFF, hoje curso **Ciência da Computação** na mesma instituição, e aplico esse cruzamento de áreas no meu dia a dia profissional.
+Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de Recursos Hídricos e do Meio Ambiente pela UFF e hoje estou cursando Ciência da Computação na mesma instituição. Seja bem vindo ao meu perfil do GitHub!!
 
-- 🖥️ Desenvolvo **dashboards dinâmicos** com React + TypeScript e soluções escaláveis no back-end com Python
+- 🖥️ Desenvolvo **dashboards dinâmicos** com React + TypeScript e soluções com Python
 - 🔬 Atuei no **CNPq** com simulações estatísticas (Monte Carlo) aplicadas a modelos matemáticos epidemiológicos, com resultados **publicados na Revista PIBIC 2024**
 - 🎮 Nas horas vagas: instrumentos musicais, jogos, e aprender sobre a história de nosso mundo
 - 🎵 (Quase) Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects**
