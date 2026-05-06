@@ -7,6 +7,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-benites/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomaieiro@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/brunombe)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/brunombe_/)
 
 </div>
 
@@ -14,12 +15,12 @@
 
 ## Sobre mim
 
-Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de Recursos Hídricos e do Meio Ambiente pela UFF e hoje estou cursando Ciência da Computação na mesma instituição. Seja bem vindo ao meu perfil do GitHub!!
+Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de Recursos Hídricos e do Meio Ambiente pela UFF e hoje estou cursando Ciência da Computação na mesma instituição. Atualmente, trabalho como desenvolvedor de software na PITECG. Seja bem-vindo ao meu perfil do GitHub!!
 
 - 🖥️ Desenvolvo **dashboards dinâmicos** com React + TypeScript e soluções com Python
 - 🔬 Atuei no **CNPq** com simulações estatísticas (Monte Carlo) aplicadas a modelos matemáticos epidemiológicos, com resultados **publicados na Revista PIBIC 2024**
 - 🎮 Nas horas vagas: musica, jogos, **MUITA** academia e aprender sobre a história de nosso mundo.
-- 🎵 (Quase) Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects** (não conte para os outros sobre o meu canalzinho no youtube que eu tinha quando eu era adolescente kkkkk)
+- 🎵 (Quase) Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects** (não conte para os outros sobre o canalzinho no youtube que eu tinha quando eu era adolescente kkkkk)
 
 ---
 
