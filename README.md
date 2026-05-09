@@ -19,8 +19,20 @@ Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de 
 
 - 🖥️ Desenvolvo **dashboards dinâmicos** com React + TypeScript e soluções com Python
 - 🔬 Atuei no **CNPq** com simulações estatísticas (Monte Carlo) aplicadas a modelos matemáticos epidemiológicos, com resultados **publicados na Revista PIBIC 2024**
-- 🎮 Nas horas vagas: musica, jogos, **MUITA** academia e aprender sobre a história de nosso mundo.
+- 🎮 Nas horas vagas: musica, jogos, MUITA academia e aprender sobre a história de nosso mundo.
 - 🎵 (Quase) Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects** (não conte para os outros sobre o canalzinho no youtube que eu tinha quando eu era adolescente kkkkk)
+
+Bandas favoritas:
+- Angra
+- Charlie Brown Jr.
+- Linkin Park
+- The Smiths
+
+Franquias de jogos favoritas:
+- Persona
+- Shin Megami Tensei
+- Half Life
+- Ace Attorney
 
 ---
 
@@ -34,11 +46,11 @@ Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### Back-end & Banco de Dados
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Ciência de Dados & Análise
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
