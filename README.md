@@ -22,17 +22,20 @@ Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de 
 - 🎮 Nas horas vagas: musica, jogos, MUITA academia e aprender sobre a história de nosso mundo.
 - 🎵 (Quase) Produtor amador no **FL Studio** e editor de vídeo no **Premiere / After Effects** (não conte para os outros sobre o canalzinho no youtube que eu tinha quando eu era adolescente kkkkk)
 
-Bandas favoritas:
+**Bandas favoritas:**
 - Angra
 - Charlie Brown Jr.
 - Linkin Park
 - The Smiths
 
-Franquias de jogos favoritas:
+**Franquias de jogos favoritas:**
 - Persona
 - Shin Megami Tensei
 - Half Life
 - Ace Attorney
+- Mario Kart
+- Castlevania
+- Wario Ware
 
 ---
 
