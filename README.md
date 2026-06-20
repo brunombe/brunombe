@@ -25,8 +25,10 @@ Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de 
 **Bandas favoritas:**
 - Angra
 - Charlie Brown Jr.
+- CPM 22
 - Linkin Park
 - The Smiths
+- Alice in Chains
 
 **Franquias de jogos favoritas:**
 - Persona
