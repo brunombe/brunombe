@@ -15,7 +15,7 @@
 
 ## Sobre mim
 
-Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de Recursos Hídricos e do Meio Ambiente pela UFF e hoje estou cursando Ciência da Computação na mesma instituição. Atualmente, trabalho como desenvolvedor de software na PITECG. Seja bem-vindo ao meu perfil do GitHub!!
+Olá, meu nome é Bruno M. Benites, tenho 27 anos, sou formado em Engenharia de Recursos Hídricos e do Meio Ambiente pela UFF e hoje estou cursando Ciência da Computação na mesma instituição. Atualmente, trabalho como desenvolvedor de software na PITECG. Seja bem-vindo ao meu perfil do GitHub!!
 
 - 🖥️ Desenvolvo **dashboards dinâmicos** com React + TypeScript e soluções com Python
 - 🔬 Atuei no **CNPq** com simulações estatísticas (Monte Carlo) aplicadas a modelos matemáticos epidemiológicos, com resultados **publicados na Revista PIBIC 2024**
@@ -29,6 +29,9 @@ Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de 
 - Linkin Park
 - The Smiths
 - Alice in Chains
+- Slipknot
+- Restart (Favor, não rir)
+- Gun Dog
 
 **Franquias de jogos favoritas:**
 - Persona
@@ -86,7 +89,8 @@ Olá, meu nome é Bruno M. Benites, tenho 26 anos, sou formado em Engenharia de 
 > **Modelagem computacional de epidemias e disseminação de opiniões**  
 > Revista PIBIC 2024 — Ciências Exatas e da Terra
 
-Simulações de Monte Carlo aplicadas a modelos epidemiológicos com dinâmicas de opinião, utilizando Python (NumPy, Matplotlib). Resultados apresentados nos Seminários de IC 2023 e 2024.
+> **Use of biosolids from a wastewater treatment plant for sunflower cultivation **  
+> Brazilian Journal of Biosystems Engineering (2026)
 
 ---
 
