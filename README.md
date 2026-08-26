@@ -2,7 +2,7 @@
 
 <h1>Bruno Maieiro Benites</h1>
 
-### Desenvolvedor de Software · Bolsista de Inovação Tecnológica (FAPERJ) · Graduando em Ciência da Computação (UFF) · Engenheiro Ambiental (UFF)
+### Desenvolvedor de Software · Bolsista de Inovação Tecnológica (FAPERJ) · Graduando em Ciência da Computação (UFF) · Engenheiro de Recursos Hídricos e do Meio Ambiente (UFF)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-benites/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:brunomaieiro@gmail.com)
@@ -35,11 +35,9 @@ Olá, meu nome é Bruno M. Benites, tenho 27 anos, sou formado em Engenharia de 
 - Gun Dog
 - Iron Maiden
 - Radiohead
-- Pink Floyd
 - Creed
 - Deftones
 - Disturbed
-- Pantera
 - Matanza
 - Cartola
 
